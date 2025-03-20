@@ -1,0 +1,5 @@
+#Toda vez que der npm install esses arquivos mudam;
+#Não te necessidade de subir para a nuvem.
+
+Service/node_modules
+package-lock.json  

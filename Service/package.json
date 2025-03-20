@@ -1,0 +1,22 @@
+{
+  "name": "service",
+  "version": "1.0.0",
+  "description": "Aqui eu escrevo uma descrição da API - Sou um tutorial!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "keywords": [],
+  "author": "Renata Silva Bezerra",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mysql2": "^3.3.1"
+  },
+  "devDependencies": {
+    "eslint": "^8.40.0",
+    "nodemon": "^2.0.22"
+  }
+}
